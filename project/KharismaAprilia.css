@@ -1,0 +1,124 @@
+
+body{
+    background: #E7F6FF;
+}
+
+.textnpic{
+    display:flex;
+    justify-content: center;
+    background: #E7F6FF;
+    padding: 20px;
+    align-items:center;
+    margin: 30px;
+    line-height: 1.1;
+}
+
+.text{
+    justify-content: flex-start;
+    width: 500px;
+}
+
+.image{
+    width: 445px;
+    height: 272.19px;
+}
+
+.materials_box{
+    justify-content: center;
+    background-color: #527182;
+    border-radius: 50px;
+    padding: 20px;
+    margin:30px;
+}
+
+.materials{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    border-radius: 50px;
+    margin: 20px;
+}
+
+.material{
+    display: flex;
+    align-items:center;
+    /* background-color: white; */
+}
+
+.icon{
+    background-color: #758D9B;
+    padding: 10px;
+    border-radius: 20px; 
+}
+
+.content_material{
+    margin: 20px;
+    /* background: white; */
+    width: 200px;
+    padding: 10px;
+    color:#E7F6FF;
+}
+
+.button1 button {
+    display:flex;
+    background-color: #0D2734; 
+    color: white; 
+    padding: 10px 20px;
+    border-radius: 20px; 
+    font-size: 16px;
+    cursor: pointer;
+
+}
+
+
+.title{
+    text-align: center;
+    margin:40px;
+}
+
+.kartu{
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(165, 206, 219);
+    border-radius: 10px;
+}
+
+.tabel{
+    display: flex;
+    justify-content: center;
+    height: 470px;
+    /* background-color: white; */
+}
+
+.rows{
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-around ;
+}
+
+.button {
+    background-color: #0D2734; 
+    color: white; 
+    padding: 10px;
+    border-radius: 20px; 
+    cursor: pointer;
+}
+
+.button:hover{
+    transform: scale(1.1);
+    transition: transform 0.35s ease;
+}
+
+.button-center{
+    display: flex;
+    justify-content: center;
+    padding: 10px 20px;
+    
+}
+
+.image{
+    width: 260.24px;
+    height: 180px;
+}
